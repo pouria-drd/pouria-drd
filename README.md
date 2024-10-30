@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019...<br>🎯 Goals: make my dream game ...<br>🎲 Fun fact: i hate coffee....</p>
+<p align="left">✨ Creating bugs since 2019...<br>🎯 Goals: make my dream game ...<br>🎲 Fun fact: i hate coffee...</p>
 
 ###
 
