@@ -2,7 +2,24 @@
 
 ###
 
-<p align="left">My name is pouria and I'm a fullstack developer, from Iran.</p>
+<p align="left">I'm Pouria Darandi and I'm a full stack developer, from IRAN 🇮🇷</p>
+
+###
+
+<div align="left">
+  <a href="https://twitter.com/pouria_drd/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/pouria.drd?igsh=OTdmZndkajBhbzF2&utm_source=qr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/pouria_drd/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/pouriadrd" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
 ###
 
@@ -10,28 +27,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019...<br>🎯 Goals: make my dream game ...<br>🎲 Fun fact: i hate coffee...</p>
-
-###
-
-<h2 align="left">Contact me</h2>
-
-###
-
-<div align="left">
-  <a href="https://discordapp.com/users/pour1a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://t.me/pouria_drd" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://www.instagram.com/pouria.drd?igsh=OTdmZndkajBhbzF2&utm_source=qr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/+989226989288" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
+<p align="left">✨ Creating bugs since 2019<br>🎯 Goals: Create  an attractive and entertaining Game<br>🎲 Fun fact: Unlike other programmers, I don't like coffee much</p>
 
 ###
 
@@ -39,33 +35,31 @@
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=vue" height="45" alt="vuejs logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=unity" height="45" alt="unity logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=django" height="45" alt="django logo"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pouria-drd&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pouria-drd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pouria-drd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pouria-drd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
