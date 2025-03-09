@@ -1,8 +1,6 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
 ###
 
-<p align="left">I'm Pouria Darandi and I'm a full stack developer, from IRAN 🇮🇷</p>
+<h1 align="left">I'm Pouria Darandi, Django && Next js Developer...💻</h1>
 
 ###
 
